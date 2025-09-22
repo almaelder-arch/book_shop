@@ -1,0 +1,6 @@
+C:\Users\almae\Projects\book_shop\book_shop\bin\Debug\book_shop.dacpac
+C:\Users\almae\Projects\book_shop\book_shop\bin\Debug\book_shop.dll
+C:\Users\almae\Projects\book_shop\book_shop\bin\Debug\book_shop.pdb
+C:\Users\almae\Projects\book_shop\book_shop\obj\Debug\book_shop.sqlproj.AssemblyReference.cache
+C:\Users\almae\Projects\book_shop\book_shop\obj\Debug\book_shop.dll
+C:\Users\almae\Projects\book_shop\book_shop\obj\Debug\book_shop.pdb

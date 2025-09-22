@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[author] (Table)
+       [dbo].[availability] (Table)
+       [dbo].[books] (Table)
+       [dbo].[books].[UQ_ISBN] (Index)
+       [dbo].[category] (Table)
+       [dbo].[fk_category_id] (Foreign Key)
+       [dbo].[fk_author_id] (Foreign Key)
+       [dbo].[fk_availability] (Foreign Key)
+
+** Supporting actions
