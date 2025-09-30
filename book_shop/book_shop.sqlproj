@@ -64,6 +64,8 @@
     <Build Include="tables\availability.sql" />
     <Build Include="tables\category.sql" />
     <Build Include="tables\books.sql" />
+    <Build Include="tables\flyway_schema_history.sql" />
+    <Build Include="sproc\create_author.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="book_shop.localdev.publish.xml" />
