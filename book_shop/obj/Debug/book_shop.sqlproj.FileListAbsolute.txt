@@ -4,3 +4,13 @@ C:\Users\almae\Projects\book_shop\book_shop\bin\Debug\book_shop.pdb
 C:\Users\almae\Projects\book_shop\book_shop\obj\Debug\book_shop.sqlproj.AssemblyReference.cache
 C:\Users\almae\Projects\book_shop\book_shop\obj\Debug\book_shop.dll
 C:\Users\almae\Projects\book_shop\book_shop\obj\Debug\book_shop.pdb
+C:\Users\almae\GitHubRepos\book_shop\book_shop\bin\Debug\book_shop.dacpac
+C:\Users\almae\GitHubRepos\book_shop\book_shop\bin\Debug\book_shop.dll
+C:\Users\almae\GitHubRepos\book_shop\book_shop\bin\Debug\book_shop.pdb
+C:\Users\almae\GitHubRepos\book_shop\book_shop\obj\Debug\book_shop.sqlproj.AssemblyReference.cache
+C:\Users\almae\GitHubRepos\book_shop\book_shop\obj\Debug\Model.xml
+C:\Users\almae\GitHubRepos\book_shop\book_shop\obj\Debug\refactor.xml
+C:\Users\almae\GitHubRepos\book_shop\book_shop\obj\Debug\postdeploy.sql
+C:\Users\almae\GitHubRepos\book_shop\book_shop\obj\Debug\predeploy.sql
+C:\Users\almae\GitHubRepos\book_shop\book_shop\obj\Debug\book_shop.dll
+C:\Users\almae\GitHubRepos\book_shop\book_shop\obj\Debug\book_shop.pdb
