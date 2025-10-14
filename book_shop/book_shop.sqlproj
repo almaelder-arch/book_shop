@@ -69,10 +69,12 @@
     <Build Include="tables\flyway_schema_history.sql" />
     <Build Include="sproc\create_author.sql" />
     <Build Include="sproc\getBooksByCatCode.sql" />
+    <Build Include="sproc\getBooksByAvailability.sql" />
     <None Include= "data\SEED\SEED_Author.sql" />
     <None Include= "data\SEED\SEED_Availability.sql" />
     <None Include= "data\SEED\SEED_Books.sql" />
     <None Include= "data\SEED\SEED_Category.sql" />
+    <None Include= "data\V0.0.22_Add_New_Author.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="book_shop.localdev.publish.xml" />

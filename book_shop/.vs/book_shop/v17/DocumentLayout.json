@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\sproc\\getBooksByAvailability.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|solutionrelative:sproc\\getBooksByAvailability.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\data\\SEED\\SEED_Availability.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|solutionrelative:data\\SEED\\SEED_Availability.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\data\\SEED\\SEED_Category.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|solutionrelative:data\\SEED\\SEED_Category.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\sproc\\getBooksByCatCode.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|solutionrelative:sproc\\getBooksByCatCode.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\data\\SEED\\SEED_Books.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\SEED\\SEED_Books.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\data\\SEED\\SEED_Category.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\SEED\\SEED_Category.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\data\\SEED\\SEED_Availability.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\SEED\\SEED_Availability.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\data\\SEED\\SEED_Books.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|solutionrelative:data\\SEED\\SEED_Books.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\sproc\\getBooksByCatCode.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|solutionrelative:sproc\\getBooksByCatCode.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\data\\SEED\\SEED_Availability.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|solutionrelative:data\\SEED\\SEED_Availability.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\sproc\\getBooksByAvailability.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|solutionrelative:sproc\\getBooksByAvailability.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\data\\SEED\\SEED_Category.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{871B7F63-CDF2-4A7D-89AE-455D150B26CE}|book_shop.sqlproj|solutionrelative:data\\SEED\\SEED_Category.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,33 +46,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "getBooksByAvailability.sql ",
+              "DocumentMoniker": "C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\sproc\\getBooksByAvailability.sql",
+              "RelativeDocumentMoniker": "sproc\\getBooksByAvailability.sql",
+              "ToolTip": "C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\sproc\\getBooksByAvailability.sql\r\n(DESKTOP-1828L47\\almae)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-03T08:55:31.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SEED_Category.sql",
+              "Title": "SEED_Category.sql ",
               "DocumentMoniker": "C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\data\\SEED\\SEED_Category.sql",
               "RelativeDocumentMoniker": "data\\SEED\\SEED_Category.sql",
-              "ToolTip": "SEED_Category.sql",
+              "ToolTip": "C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\data\\SEED\\SEED_Category.sql",
+              "RelativeToolTip": "data\\SEED\\SEED_Category.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-10-01T11:47:33.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SEED_Availability.sql",
+              "DocumentIndex": 1,
+              "Title": "SEED_Availability.sql ",
               "DocumentMoniker": "C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\data\\SEED\\SEED_Availability.sql",
               "RelativeDocumentMoniker": "data\\SEED\\SEED_Availability.sql",
-              "ToolTip": "SEED_Availability.sql",
+              "ToolTip": "C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\data\\SEED\\SEED_Availability.sql*",
+              "RelativeToolTip": "data\\SEED\\SEED_Availability.sql*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-10-01T11:45:56.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "getBooksByCatCode.sql ",
               "DocumentMoniker": "C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\sproc\\getBooksByCatCode.sql",
               "RelativeDocumentMoniker": "sproc\\getBooksByCatCode.sql",
@@ -67,11 +96,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "SEED_Books.sql",
               "DocumentMoniker": "C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\data\\SEED\\SEED_Books.sql",
               "RelativeDocumentMoniker": "data\\SEED\\SEED_Books.sql",
-              "ToolTip": "SEED_Books.sql",
+              "ToolTip": "C:\\Users\\almae\\GitHubRepos\\book_shop\\book_shop\\data\\SEED\\SEED_Books.sql",
+              "RelativeToolTip": "data\\SEED\\SEED_Books.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-10-01T11:48:07.073Z",
               "EditorCaption": ""
