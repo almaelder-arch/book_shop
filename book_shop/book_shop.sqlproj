@@ -75,6 +75,8 @@
     <None Include= "data\SEED\SEED_Books.sql" />
     <None Include= "data\SEED\SEED_Category.sql" />
     <None Include= "data\V0.0.22_Add_New_Author.sql" />
+    <None Include= "data\1__V0.0.23_Add_New_Authors.sql" />
+    <None Include= "data\2__V0.0.23_Add_New_Category.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="book_shop.localdev.publish.xml" />
